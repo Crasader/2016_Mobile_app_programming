@@ -1,0 +1,36 @@
+{
+	"info" : 
+	[
+		{
+			"value"		: 10,
+			"path"		: "assemble/left_menu/left_menu_storage_1.png",
+			"price"		: 40000
+		},                                          
+		{                                           
+			"value"		: 12,                        
+			"path"		: "assemble/left_menu/left_menu_storage_2.png",
+			"price"		: 60000
+		},                                            
+		{                                             
+			"value"		: 13,                          
+			"path"		: "assemble/left_menu/left_menu_storage_3.png",
+			"price"		: 100000
+		},                                   
+		{                                             
+			"value"		: 105,                          
+			"path"		: "assemble/left_menu/left_menu_storage_5.png",
+			"price"		: 60000
+		},                                            
+		{                                             
+			"value"		: 107,                          
+			"path"		: "assemble/left_menu/left_menu_storage_6.png",
+			"price"		: 130000
+		},                                             
+		{                                              
+			"value"		: 109,                           
+			"path"		: "assemble/left_menu/left_menu_storage_7.png",
+			"price"		: 300000
+		}
+	]
+}
+

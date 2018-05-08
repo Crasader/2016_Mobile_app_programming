@@ -1,0 +1,37 @@
+﻿  PolygonBatch.cpp
+  SkeletonAnimation.cpp
+  SkeletonRenderer.cpp
+  spine-cocos2dx.cpp
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\base\ccutf8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonRenderer.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\base\ccutf8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\spine-cocos2dx.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\base\ccutf8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonAnimation.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\base\ccutf8.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\PolygonBatch.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsbody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\spine-cocos2dx.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsshape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\spine-cocos2dx.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsbody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonRenderer.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsshape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonRenderer.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsbody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\PolygonBatch.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsshape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\PolygonBatch.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsbody.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonAnimation.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\physics\ccphysicsshape.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonAnimation.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\spine-cocos2dx.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\PolygonBatch.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonRenderer.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\platform\ccsaxparser.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (..\SkeletonAnimation.cpp)
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(229): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 'cocos2d::DrawPrimitives::setDrawColor4B' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(242): warning C4996: 'cocos2d::DrawPrimitives::drawPoly': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(109) : 'cocos2d::DrawPrimitives::drawPoly' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(248): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 'cocos2d::DrawPrimitives::setDrawColor4B' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(253): warning C4996: 'cocos2d::DrawPrimitives::drawLine': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(96) : 'cocos2d::DrawPrimitives::drawLine' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(256): warning C4996: 'cocos2d::DrawPrimitives::setPointSize': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(160) : 'cocos2d::DrawPrimitives::setPointSize' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(257): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 'cocos2d::DrawPrimitives::setDrawColor4B' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(260): warning C4996: 'cocos2d::DrawPrimitives::drawPoint': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(88) : 'cocos2d::DrawPrimitives::drawPoint' 선언을 참조하십시오.
+c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(261): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': deprecated로 선언되었습니다.
+          c:\cocos2d-x-3.4\project\computermaker\cocos2d\cocos\2d\ccdrawingprimitives.h(150) : 'cocos2d::DrawPrimitives::setDrawColor4B' 선언을 참조하십시오.
+  libSpine.vcxproj -> C:\cocos2d-x-3.4\project\ComputerMaker\proj.win32\Debug.win32\libSpine.lib

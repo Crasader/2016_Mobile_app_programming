@@ -1,0 +1,43 @@
+{
+	"info" : 
+	[
+		{
+			"name"			: "main_board",
+			"path_1"		: "assemble/right_menu/main_board_1.png",
+			"path_2"		: "assemble/right_menu/main_board_2.png",
+			"path_3"		: "assemble/right_menu/main_board_3.png"
+		},
+		{
+			"name"			: "cpu",
+			"path_1"		: "assemble/right_menu/cpu_1.png",
+			"path_2"		: "assemble/right_menu/cpu_2.png",
+			"path_3"		: "assemble/right_menu/cpu_3.png"
+		},
+		{
+			"name"			: "ram",
+			"path_1"		: "assemble/right_menu/ram_1.png",
+			"path_2"		: "assemble/right_menu/ram_2.png",
+			"path_3"		: "assemble/right_menu/ram_3.png"
+		},
+		{
+			"name"			: "storage",
+			"path_1"		: "assemble/right_menu/storage_1.png",
+			"path_2"		: "assemble/right_menu/storage_2.png",
+			"path_3"		: "assemble/right_menu/storage_3.png"
+		},
+		{
+			"name"			: "vga",
+			"path_1"		: "assemble/right_menu/vga_1.png",
+			"path_2"		: "assemble/right_menu/vga_2.png",
+			"path_3"		: "assemble/right_menu/vga_3.png"
+		},
+		{
+			"name"			: "power",
+			"path_1"		: "assemble/right_menu/power_1.png",
+			"path_2"		: "assemble/right_menu/power_2.png",
+			"path_3"		: "assemble/right_menu/power_3.png"
+		}
+		
+	]
+}
+

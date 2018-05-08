@@ -1,0 +1,26 @@
+{
+	"info" : 
+	[
+		{
+			"value"		: 5,
+			"path"		: "assemble/left_menu/left_menu_power_1.png",
+			"price"		: 30000
+		},                                         
+		{                                          
+			"value"		: 10,                       
+			"path"		: "assemble/left_menu/left_menu_power_2.png",
+			"price"		: 40000
+		},
+		{
+			"value"		: 15,
+			"path"		: "assemble/left_menu/left_menu_power_3.png",
+			"price"		: 50000
+		},
+		{
+			"value"		: 20,
+			"path"		: "assemble/left_menu/left_menu_power_4.png",
+			"price"		: 60000
+		}
+	]
+}
+

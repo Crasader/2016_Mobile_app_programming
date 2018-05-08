@@ -1,0 +1,31 @@
+{
+	"info" : 
+	[                        
+		{                                           
+			"value"		: 10,                        
+			"path"		: "assemble/left_menu/left_menu_vga_1.png",
+			"price"		: 200000
+		},                                            
+		{                                             
+			"value"		: 15,                          
+			"path"		: "assemble/left_menu/left_menu_vga_2.png",
+			"price"		: 400000
+		},                                             
+		{                                              
+			"value"		: 20,                           
+			"path"		: "assemble/left_menu/left_menu_vga_3.png",
+			"price"		: 600000
+		},                                            
+		{                                             
+			"value"		: 25,                          
+			"path"		: "assemble/left_menu/left_menu_vga_4.png",
+			"price"		: 700000
+		},                                            
+		{                                             
+			"value"		: 30,                          
+			"path"		: "assemble/left_menu/left_menu_vga_5.png",
+			"price"		: 900000
+		}
+	]
+}
+

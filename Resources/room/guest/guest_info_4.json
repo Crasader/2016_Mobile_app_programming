@@ -1,0 +1,74 @@
+{
+	"info" : 
+	[
+		{
+			"name"			: "여후배 3",
+			"img_path"		: "room/guest/1_5.png",
+			"enter_text"	: ["오빠~ 컴퓨터에 먼지가 너무 껴서 더러워요 ㅠㅠ", "저 청소할줄몰라서.. 컴터 고장낼 것 같아요..", "청소좀 해주세요^^~"],
+			"happy_text"	: ["컴퓨터 너무 깨끗해요!! 새컴퓨터같아~","역시 오빠 짱 ^^~"],
+			"reward"		: 300000,
+			"type"			: "clean"
+		},
+		{
+			"name"			: "여후배 3",
+			"img_path"		: "room/guest/1_5.png",
+			"enter_text"	: ["안녕하세요 오빠~ ","컴퓨터 성능좀 높이고 싶어서
+부품좀 바꾸려구여~", "얼마전에 새로나온 그래픽카드가 있다던데.. 그걸로 바꿔주세요!!"],
+			"happy_text"	: ["어머 오빠 감사해요!! 역시 오빠밖에 없어요!!"],
+			"upset_text" 	: ["하", "하하", "하하하" , "제가 컴퓨터 더 잘 아는거 같네요..", "그래도 뭐 도와주셨으니.. 감사해요~", "네~ 밤길 살펴 가세요~"],
+			
+			"original_cpu"	: 3,
+			"original_ram" 	: [1, 1],
+			"original_power" : 1,
+			"original_storage" : [1,4],
+			"original_vga" : -1,
+			
+			"cpu_original_score" : 15,
+			"ram_original_score" : 4,
+			"vga_original_score" : 0,
+			"power_original_score" : 5,
+			"storage_original_score" : 110,
+			
+			"cpu_score" : 15,
+			"ram_score" : 4,
+			"vga_score" : 27,
+			"power_score" : 20,
+			"storage_score" : 110,
+			"reward"		: 300000,
+			"type"		: "reassemble"
+		},
+		{
+			"name"			: "여후배 3",
+			"img_path"		: "room/guest/1_5.png",
+			"enter_text"	: ["오빠 ~~ 그렇게 컴퓨터를 잘 아신다고요?", "제가 퀴즈를 좀 내볼게요..후훗..", "과연 맞출 수 있을까~?"],
+			
+			"quiz_text_1"	: ["컴퓨터의 두뇌에 해당하는 것으로서, 중앙처리장치 라고도 한다. 이것의 이름은 뭘까~요?"],
+			"quiz_question_1": ["HDD(Hard Disk Drive)", "그래픽카드", "CPU", "Power"],
+			
+			"quiz_text_2"	: ["컴퓨터에 전원을 공급하는 장치의 이름은 뭐게요~~??"],
+			"quiz_question_2": ["HDD(Hard Disk Drive)", "그래픽카드", "CPU", "Power"],
+			
+			"quiz_text_3"	: ["컴퓨터 내에서 기본회로와 부품을 담는 하드웨어이며, PC의 모든장치들의 데이터 입출력 교환을 원활하게 해주는 것은 뭘까요?"],
+			"quiz_question_3": ["Mother board", "CPU", "RAM", "Power"],
+			
+			"quiz_answer"   : [2, 3, 0],
+			"happy_text"	: ["와.. 오빤 너무 똑똑해요! 정말 최고최고~~!!"],
+			"reward"		: 300000,
+			"type"			: "quiz"
+		},
+		{
+			"name"			: "여후배 3",
+			"img_path"		: "room/guest/1_5.png",
+			"enter_text"	: ["ㅎㅎ오빠~~~~ 마지막으로 컴퓨터 하나만 더 만들어줘요~ 제일 좋은걸루요~","선물해 줄 사람이..있어서.."],
+			"happy_text"	: ["고마워요 오빠!!", "사실.. 제가 선물주고 싶었던 사람은..", "바로 오빠예요,,,", "오빠..저랑 사귀어주실래요?"],
+			"upset_text" 	: ["오빠 미워어어어어어어엇!!  으아아아앙 ㅠㅅㅜ"],
+			"cpu_score" : 25,
+			"ram_score" : 8,
+			"vga_score" : 25,
+			"power_score" : 15,
+			"storage_score" : 148,
+			"reward"		: 300000
+		}
+	]
+}
+

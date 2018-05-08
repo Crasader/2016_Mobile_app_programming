@@ -1,0 +1,21 @@
+{
+	"info" : 
+	[
+		{
+			"value"		: 1,
+			"path"		: "assemble/left_menu/left_menu_ram_1.png",
+			"price"		: 10000
+		},                                         
+		{                                          
+			"value"		: 2,                       
+			"path"		: "assemble/left_menu/left_menu_ram_2.png",
+			"price"		: 20000
+		},
+		{
+			"value"		: 3,
+			"path"		: "assemble/left_menu/left_menu_ram_3.png",
+			"price"		: 40000
+		}
+	]
+}
+
